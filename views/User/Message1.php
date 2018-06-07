@@ -1,0 +1,1 @@
+<h1>You are registered. You have to active your profile.</h1>
